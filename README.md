@@ -16,7 +16,7 @@
 ![img_1](https://github.com/user-attachments/assets/679a420a-3cf6-4a55-af58-6982d88d55f2)
 
 
- This visualization provides a comprehensive view of the total number of cases reported each year, allowing users to identify trends, fluctuations, and any anomalies over time. By analyzing these patterns, policymakers and researchers can assess the effectiveness of laws and enforcement efforts.
+ This visualization provides a comprehensive view of the total number of cases reported each year, allowing users to identify trends, fluctuations over time. By analyzing these patterns, policymakers and researchers can assess the effectiveness of laws and enforcement efforts.
 
 ### Yearly Trends by Offender Category (1999-2013): 
 ![img_2](https://github.com/user-attachments/assets/477f13f8-84f2-4456-8cd8-85c3ef51273f)
