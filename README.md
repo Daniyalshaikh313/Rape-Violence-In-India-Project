@@ -80,8 +80,6 @@ We value your feedback to improve this dashboard.
 If you encounter any issues, have suggestions, or require additional features, please reach out through our E-mail or contact number's. Your input will help enhance the effectiveness of this tool in understanding crime trends and aiding research.
 
 
-### Contact: 
-For your queries, reach out to link.com
 ## 🤝 Acknowledgments
 Your support and contributions have been instrumental in making this project a success.
 
