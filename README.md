@@ -8,7 +8,7 @@
 
 
 ## 🚔 Overview
-This interactive dashboard provides an analytical view of sexual assault and rape cases reported in India from 1999 to 2020. It helps users explore crime trends, offender distribution, and geographical density using various visualizations. Users can filter data, analyze patterns, and download insights for further study.
+**This interactive dashboard provides an analytical view of sexual assault and rape cases reported in India from 1999 to 2020. It helps users explore crime trends, offender distribution, and geographical density using various visualizations. Users can filter data, analyze patterns, and download insights for further study.**
 
 
 ## 📌 Key Features: 
