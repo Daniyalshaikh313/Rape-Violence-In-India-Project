@@ -1,13 +1,9 @@
-import os
-os.system('pip install -r requirements.txt')
-
 import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import geopandas as gpd
-
 
 
 
