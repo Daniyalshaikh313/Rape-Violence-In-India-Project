@@ -102,7 +102,7 @@ st.sidebar.markdown("""
 # Sidebar Filters
 # -------------------------
 # Display the image in the sidebar
-st.sidebar.image("logo.jpg", use_column_width=True)
+st.image("example.jpg", use_container_width=True)
 
 st.sidebar.markdown("<div class='sidebar-subtitle'>📅 Filter by Year</div>", unsafe_allow_html=True)
 
