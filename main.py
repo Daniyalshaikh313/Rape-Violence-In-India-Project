@@ -13,6 +13,13 @@ import geopandas as gpd
 # -------------------------
 # Page Configuration
 # -------------------------
+st.set_page_config(
+    page_title="Sexual Assault & Rape Case Analytics in India",
+    page_icon="",
+    layout="wide",
+    initial_sidebar_state="expanded")
+
+
 st.markdown(
     "<h2 style='color:yellow; text-align:center; text-decoration:underline;'>🚔🔴 Sexual Assault Cases Dashboard (1999-2020) 🔴🚔 </h2>",
     unsafe_allow_html=True)
