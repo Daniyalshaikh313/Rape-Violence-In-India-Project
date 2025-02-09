@@ -1,7 +1,6 @@
 streamlit
+plotly
 pandas
 numpy
-plotly
-plotly
 geopandas
 
