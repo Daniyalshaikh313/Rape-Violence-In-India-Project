@@ -496,7 +496,7 @@ st.markdown("<h1 style='color: white;'>📝 Feedback: Get In Touch With Sexual A
 
 # Enhanced Contact Form with Stylish Design
 contact_form = """
-    <form action="https://formsubmit.co/saggy2001@gmail.com" method="POST">
+    <form action="https://formsubmit.co/sagyy2001@gmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your Name" required>
         <input type="email" name="email" placeholder="Your Email" required>
