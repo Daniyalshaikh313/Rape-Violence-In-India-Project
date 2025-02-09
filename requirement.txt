@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-plotly.express 
-plotly.graph_objects
+plotly
 geopandas
-matplotlib
+
