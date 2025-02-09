@@ -7,7 +7,6 @@ import geopandas as gpd
 
 
 
-
 # -------------------------
 # Page Configuration
 # -------------------------
